@@ -1,0 +1,12 @@
+h1 {
+	font-family: Courier;
+	font-family: cursive;
+}
+
+#plaatje {
+	height: 380px;
+}
+
+#container {
+	text-align: center;
+}
